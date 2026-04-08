@@ -79,22 +79,23 @@ Hi — I’m a developer focused on **full-stack web**: e-commerce, real-time ch
 
 Strong problem-solving mindset, self-directed learning, teamwork, clear communication, and time management.
 
+<!-- Dev icons: npm CDN (stable); gh/devicon paths often break via GitHub Camo -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/react/react-original.svg" width="28" height="28" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/redux/redux-original.svg" width="28" height="28" alt="Redux" title="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/express/express-original.svg" width="28" height="28" alt="Express" title="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/docker/docker-original.svg" width="28" height="28" alt="Docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/redis/redis-original.svg" width="28" height="28" alt="Redis" title="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/nginx/nginx-original.svg" width="28" height="28" alt="Nginx" title="Nginx" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/c/c-original.svg" width="28" height="28" alt="C" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/cplusplus/cplusplus-original.svg" width="28" height="28" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/react/react-original.svg" width="28" height="28" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/redux/redux-original.svg" width="28" height="28" alt="Redux" title="Redux" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/express/express-original.svg" width="28" height="28" alt="Express" title="Express" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/docker/docker-original.svg" width="28" height="28" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/redis/redis-original.svg" width="28" height="28" alt="Redis" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/nginx/nginx-original.svg" width="28" height="28" alt="Nginx" title="Nginx" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/python/python-original.svg" width="28" height="28" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/c/c-original.svg" width="28" height="28" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/cplusplus/cplusplus-original.svg" width="28" height="28" alt="C++" title="C++" />
 </p>
 
 ---
@@ -110,10 +111,11 @@ Strong problem-solving mindset, self-directed learning, teamwork, clear communic
 
 ## GitHub stats
 
+<!-- github-readme-stats.vercel.app is often paused (503); using a public mirror. For a stable long-term setup, deploy your own: https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Quang-Trung-68&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=graywhite" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quang-Trung-68&layout=compact&hide_border=true&theme=graywhite&langs_count=8" alt="Top languages" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quang-Trung-68&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=dark&cache_seconds=86400" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quang-Trung-68&layout=compact&hide_border=true&theme=dark&langs_count=8&cache_seconds=86400" alt="Top languages" />
 
 </div>
 
